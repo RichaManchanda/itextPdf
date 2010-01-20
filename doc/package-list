@@ -1,0 +1,7 @@
+com.wissen.PdfAsg.client
+com.wissen.PdfAsg.client.PdfObserver
+com.wissen.PdfAsg.client.controller
+com.wissen.PdfAsg.client.services
+com.wissen.PdfAsg.client.widgets
+com.wissen.PdfAsg.server
+com.wissen.PdfAsg.server.impl
